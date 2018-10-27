@@ -23,4 +23,4 @@
 
 ## Note
 * HTML and CSS files are coded by Jonas Schmedtmann, the instructor of the course.
-* JavaScript file is coded after learning the tutor section.
+* JavaScript file is coded by me after learning the tutor section.
